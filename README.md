@@ -9,5 +9,5 @@ Corkの開発をサポートしたい場合はCorkの購入を検討してくだ
 
 Apple のセキュリティーが面倒なのでターミナルでこのフォルダーに入って実行して下さい
 
-`sh click.command`
+`bash click.command`
 
